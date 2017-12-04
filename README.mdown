@@ -1,0 +1,38 @@
+# How to Create Animation Clip in Unity3D
+
+#### Introduction
+
+Animation Clips are one of the core elements of Unity’s animation system. Gameobjects in Unity can be animated using animation Clip. Using Animation Clips, we can change position, rotation and scale of a gameobject as well as other properties like float or integer value of material from the script. If you need a step by step explanation of the topic, you can check our article here: [How to Create Animation Clip in Unity3D](https://insights.nimblechapps.com/unity/create-animation-clip-unity3d)
+
+In Unity, Animation clips are created using “Animation“ window, under Windows from the main menu -> Animation.
+
+#### Steps to follow
+
+1. Create a Cube.
+2. Select that Cube and create new animation clip.
+3. Give the name Scale and save the clip.
+4. Now select the gameobject Cube and click on “ Add Property ” button.
+5. Select scale form Transform and press “ + ” button to create scale a property.
+6. Select the first keyframe at 0:00 and then select cube from hierarchy.
+7. Now hit the play in the animation window to preview the animation.
+8. Now hit the play button in Unity editor.
+9. Now create another clip for rotation.
+
+#### Final output
+<br/>
+
+[![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2017/11/Animation-Clip-Output.png)](https://insights.nimblechapps.com/unity/how-to-implement-slingshot-in-unity)
+
+This tutorial has been presented by Nimblechapps - The coolest [Unity Game Development Company](https://www.nimblechapps.com/unity-game-development-company). Checkout our [Unity game development portfolio](https://www.nimblechapps.com/portfolio/game-development).
+
+     Provide us your valuable comment in our blog comment section.
+
+##### Read other interesting iOS blogs
+
+ 1. [Implementing Confetti Coming out of an object In Unity](https://insights.nimblechapps.com/unity/implementing-confetti-coming-out-of-an-object-in-unity)
+ 2. [How to Integrate Photon Pun Multiplayer Game Engine For Unity](https://insights.nimblechapps.com/unity/how-to-integrate-photon-pun-multiplayer-game-engine-for-unity)
+ 3. [How to Implement Slingshot In Unity](https://insights.nimblechapps.com/unity/how-to-implement-slingshot-in-unity)
+
+## License
+
+Copyright (c) 2017 Nimblechapps
